@@ -1,3 +1,8 @@
+/**
+I was able to do the homework without implementing display, overflow and clear.
+Not sure where I could have used them here.
+**/
+
 body {
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     color: #777;
@@ -62,9 +67,4 @@ h1, p {
     margin-left: 20px;
     margin-top: 10px;   
     margin-bottom: 10px;
-}
-
-footer.clear {
-    clear: both;
-    
 }
